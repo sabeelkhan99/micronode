@@ -35,3 +35,10 @@ This will compile the source and generate an executable named micronode.
 ./micronode index.js
 ```
 
+### 📜 License
+MIT License
+
+### 👨‍💻 Author
+Sabeel Khan
+Follow for more dev tools, educational videos, and system design walkthroughs.
+
