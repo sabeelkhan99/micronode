@@ -40,5 +40,7 @@ MIT License
 
 ### 👨‍💻 Author
 Sabeel Khan
+
+### Follow
 Follow for more dev tools, educational videos, and system design walkthroughs.
 
